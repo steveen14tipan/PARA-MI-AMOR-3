@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(FONDO.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: "corazon", "sans serif";
+}
+
+
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.big_animate{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, #1383ce, #7b38b9);
+}
+
+.header_nav{
+    width: 100%;
+    color: #ffffff;
+}
+
+.header_nav h1{
+    color: #ffffff;
+    font-family: 'Gill Sans';
+}
+
+.header_nav nav a{
+    font-size: 90px;
+    font-weight: 800;
+    color: black;
+    margin-left: 450px;
+    text-decoration: none;
+}
+
+.banner_title h2   {
+    color: blanchedalmond;
+    font-size: 90px;
+    font-weight: 800;
+    margin-left: 210px;
+    margin-top: 270px;
+}
