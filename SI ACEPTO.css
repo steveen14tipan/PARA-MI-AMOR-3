@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(FONDO\ NEGRO.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: "corazon", "sans serif";
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+.banner_title h2 {
+    color: pink;
+    margin-left: 250px;
+}

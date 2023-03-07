@@ -1,0 +1,14 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    background: url(FONDO\ NEGRO.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+.banner_title h2 {
+    color: white;
+    margin-left: 200px;
+}
